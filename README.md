@@ -8,7 +8,7 @@
 - Recently I was admitted as a student of Data Analytics with Python. During this course we have online activities on weekdays, 4 hours a day, from 06:15 pm until 10:15 pm. This course also provides English classes and other very important subjects related to a future career as a Data Analyst. You can find more information on the website of the program (https://www.entra21.com.br/)  - Portuguese only - which aims the students residents in Santa Catarina State, southern Brazil.
 - 📫 You can reach me @ sylviocjr.dev@gmail.com
 - These information are being updated as I follow through the steps of my classes and new learnings.
-- Last review: may 10th, 2022.
+- Last review: july 26th, 2022.
 <!---
 sylviocjr/sylviocjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
